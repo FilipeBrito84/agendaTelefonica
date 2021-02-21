@@ -1,0 +1,23 @@
+body{
+    min-height: 100vh;
+    background-color: #CCC;
+    background-image: url("../img/contact.png");
+    background-repeat: no-repeat;
+}
+
+.login-form{
+    padding: 60px 30px;
+    background-color: rgba(0, 0, 0, .9);
+    margin-top: 50vh;
+    transform: translateY(-50%);
+    color: white;
+}
+
+.login-form h1{
+    margin: 0 0 5px;
+}
+
+.login-form h2{
+    margin: 0 0 30px;
+    font-size: 1em;
+}
